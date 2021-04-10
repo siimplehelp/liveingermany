@@ -4,10 +4,10 @@ title: About
 permalink: /about/
 ---
 
-This is Technology blog with a focus on open-source community projects. 
+This blog is created to share/pass on valuable information. 
 
 You are free to contribute interesting topics. 
 
-Follow to read more things about Technology. 
+Follow to read more things about Living in Germany. 
 
 
