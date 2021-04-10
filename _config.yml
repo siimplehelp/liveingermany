@@ -22,12 +22,10 @@ title: Siimple Help
 email: siimplehelp@outlook.com
 description: >- # this means to ignore newlines until "baseurl:"
  "हे जग मी सुंदर करून जाईन"- पु.ल.देशपांडे
-baseurl: "/liveingermany" # the subpath of your site, e.g. /blog
+baseurl: "/liveingermany" # the subpath of your site, e.g. /liveingermany
 url: "https://siimplehelp.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: Digupats
-github_username:  siimplehelp
-
-social: 
+3github_username:  siimplehelp
 whatsapp: tel:+4917645815880
 
 # not default 
