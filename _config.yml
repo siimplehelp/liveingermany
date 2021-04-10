@@ -26,7 +26,7 @@ baseurl: "/liveingermany" # the subpath of your site, e.g. /blog
 url: "https://siimplehelp.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: Digupats
 github_username:  siimplehelp
-whatsapp: +4917645815880
+whatsapp: tel:+4917645815880
 
 # not default 
 author: Digvijay M. Patil
