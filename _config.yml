@@ -26,8 +26,8 @@ baseurl: "/liveingermany" # the subpath of your site, e.g. /liveingermany
 url: "https://siimplehelp.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: Digupats
 #github_username:  siimplehelp
-#whatsapp_url: https://wa.me/message/KUWVRNH3OYXPE1
-whatsapp: https://api.whatsapp.com/send?phone=+49-17645815880
+whatsapp_url: https://wa.me/message/KUWVRNH3OYXPE1
+#whatsapp: https://api.whatsapp.com/send?phone=+49-17645815880
 
 # not default 
 author: Call/WhatsApp : +4917645815880
