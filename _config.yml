@@ -27,6 +27,7 @@ url: "https://siimplehelp.github.io" # the base hostname & protocol for your sit
 #twitter_username: Digupats
 #github_username:  siimplehelp
 whatsapp_url: https://wa.me/message/KUWVRNH3OYXPE1
+whatsapp: https://api.whatsapp.com/send?phone=+49-17645815880
 
 # not default 
 author: Digvijay M. Patil
