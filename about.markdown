@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-This blog is created to share/pass on valuable information. 
+This blog is created to share valuable information. 
 
 You are free to contribute interesting topics. 
 
