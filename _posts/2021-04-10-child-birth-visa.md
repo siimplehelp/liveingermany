@@ -26,7 +26,7 @@ Visa for parents in the case of child birth category.
 
 * You can apply for this visa within 6 months of delivery only.
   
-* You can apply for this visa while keeping eye on Air Bubble travel plans. Check the status of Air Bubble here https://www.civilaviation.gov.in/en/about-air-transport-bubbles 
+* You can apply for this visa while keeping eye on Air Bubble travel plans. Check the status of Air Bubble here [Information on Air Bubble Travel Plan](https://www.civilaviation.gov.in/en/about-air-transport-bubbles)  
 
 Please feel free to ping me🙏
 
