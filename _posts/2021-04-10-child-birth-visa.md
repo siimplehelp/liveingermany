@@ -21,7 +21,10 @@ Visa for parents in the case of child birth category.
 
 * List of invitee person’s documents: Mutterpass, Resident Permit, Invitation letter, formal obligation letter (not mandatory), Passport copies of parents to check the relationship.
 
-Note: Soft copies of all documents are valid (during this pandemic situation). You can submit bank statement of your parents instead of formal obligation letter( but please do inform this to consulate in-advance in 1st communication)
+## Note 
+* Soft copies of all documents are valid (during this pandemic situation). You can submit bank statement of your parents instead of formal obligation letter( but please do inform this to consulate in-advance in 1st communication)
+
+* You can apply for this visa within 6 months of delivery only.  
 
 Please feel free to ping me🙏
 
