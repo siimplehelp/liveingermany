@@ -24,7 +24,9 @@ Visa for parents in the case of child birth category.
 ## Note 
 * Soft copies of all documents are valid (during this pandemic situation). You can submit bank statement of your parents instead of formal obligation letter( but please do inform this to consulate in-advance in 1st communication)
 
-* You can apply for this visa within 6 months of delivery only.  
+* You can apply for this visa within 6 months of delivery only.
+  
+* You can apply for this visa while keeping eye on Air Bubble travel plans. Check the status of Air Bubble here https://www.civilaviation.gov.in/en/about-air-transport-bubbles 
 
 Please feel free to ping me🙏
 
